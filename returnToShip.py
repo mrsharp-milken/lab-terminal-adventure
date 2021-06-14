@@ -51,6 +51,4 @@ else:
         print("    hides it away forever!")
 
     else:
-        with open ("adventure/seafloor/coral_reef/.timer", "r") as timerFile:
-            timeChestOpenedAsList=timerFile.readlines()
         win()
