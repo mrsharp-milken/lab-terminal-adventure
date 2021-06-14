@@ -53,8 +53,4 @@ else:
     else:
         with open ("adventure/seafloor/coral_reef/.timer", "r") as timerFile:
             timeChestOpenedAsList=timerFile.readlines()
-        timeChestOpened = datetime.strptime(('').join(timeChestOpenedAsList), '%Y-%m-%d %H:%M:%S.%f')
-        if timeChestOpened + timedelta(seconds=60) < now:
-            reset()
-        else:
-            win()
+        win()
