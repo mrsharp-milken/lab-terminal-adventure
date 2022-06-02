@@ -13,7 +13,7 @@ brew install python
 Then, type this into your terminal so you can make a copy of our terminal adventure project: 
 
 ```
-git clone https://github.com/Snap-Engineering-Academy-2021/lab-terminal-adventure.git
+git clone https://github.com/Snap-Engineering-Academy-2022/lab-terminal-adventure.git
 ```
 
 Type the following to get started. You will need to use terminal commands!
