@@ -72,6 +72,7 @@ However, with the -d option, rm will also remove a directory:
 jhan$ rm -d bad_directory
 ```
 
+## Command Line Commands
 | Command              | What it does                                 |
 | --------------       | -------------------------------------------- |
 | `ls`                 | List what's in the current directory.        |
