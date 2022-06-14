@@ -77,6 +77,7 @@ jhan$ rm -d bad_directory
 
 
 | Command              | What it does                                 |
+
 | --------------       | -------------------------------------------- |
 | `ls`                 | List what's in the current directory.        |
 | `cd ~`               | Go to your home directory                    |
