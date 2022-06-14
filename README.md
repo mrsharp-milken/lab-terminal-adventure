@@ -73,8 +73,6 @@ jhan$ rm -d bad_directory
 ```
 ## Command Line Commands
 
-<img width="675" alt="image" src="https://user-images.githubusercontent.com/26272095/173687538-c3a51d19-e307-43f1-95ee-d85e764b17b8.png">
-
 
 | Command              | What it does                                 |
 | --------------       | -------------------------------------------- |
