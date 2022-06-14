@@ -80,8 +80,8 @@ jhan$ rm -d bad_directory
 | `cd somewhere`       | Go to `somewhere`                            |
 | `cd ..`              | Go to the parent directory                   |
 | `cat file.txt`       | Prints out the contents of `file.txt`        |
-| `python3 file.py`      | Runs `file.py`, which is a python file |
-| `node file.js`      | Runs `file.js`, which is a javascript file |
+| `python3 file.py`    | Runs `file.py`, which is a python file       |
+| `node file.js`       | Runs `file.js`, which is a javascript file   |
 | `mv old.txt new.txt` | Renames a file from `old.txt` to `new.txt`. Also works for directories. |
 | `mv file.txt dir`    | Moves a file to directory `dir`.             |
 | `mv dir1 dir2`       | Moves `dir1` to `dir2` or renames if `dir2` doesn't exist.          |
@@ -91,9 +91,9 @@ jhan$ rm -d bad_directory
 | `rm file.txt`        | removes (deletes) the file `file.txt`        |
 | `rm -d dir`          | removes (deletes) the directory `dir`        |
 | `rm -r dir`          | recursively removes (deletes) the directory `dir` and all subdirectories and files within that directory. **Be careful, this is a powerful tool!** |
-| `man cal`          | Pulls up the reference guide for the command `cal` -- use this to learn about new commands |
-| `:q!`          | Quit out of a file or page without saving|
-| `:wq`          | Quit out of a file with saving  |
+| `man cal`           | Pulls up the reference guide for the command `cal` -- use this to learn about new commands |
+| `:q!`               | Quit out of a file or page without saving|
+| `:wq`             | Quit out of a file with saving  |
 
 
 ## More terminal commands
