@@ -45,10 +45,10 @@ if not Path("adventure/seafloor/coral_reef/.timer").exists():
     print("    to the ship. More secrets await you in the ocean's depths.")
 
 else:
-    if not Path("./bag/treasure.jpg").exists():
-
-        print("    You forgot your treasure bag! Hurry back to get it before the sea monster")
-        print("    hides it away forever!")
+    if Path("./bag/treasure.jpg").exists() or Path("./treasure.jpg").exists():
+        win()
 
     else:
-        win()
+        print("    You forgot your treasure bag! Hurry back to get it before the sea monster")
+        print("    hides it away forever!")
+        print("    HINT: Do you use the mv command to move the treasure up to this directory?")
