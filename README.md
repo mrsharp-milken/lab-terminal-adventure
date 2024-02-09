@@ -20,7 +20,7 @@ Type the following to get started. You will need to use terminal commands!
 
 ```
 cd lab-terminal-adventure
-node welcomeToSurface.js
+python3 welcomeToSurface.py
 ```
 
 ## What is the command line interface? 
